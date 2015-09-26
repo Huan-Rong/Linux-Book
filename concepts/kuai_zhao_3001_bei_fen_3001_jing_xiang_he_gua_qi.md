@@ -23,3 +23,4 @@
 
 #### 参考
 1. [知乎上关于快照与备份的讨论,值得思考](http://www.zhihu.com/question/20374919)
+2. [百度知道上关于快照、备份、挂起的解释，个人认为较为准确](http://zhidao.baidu.com/question/583584549824231605.html)
