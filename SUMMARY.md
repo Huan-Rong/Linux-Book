@@ -5,4 +5,5 @@
    * [命令的历史记录](general_commands/ming_ling_de_li_shi_ji_lu.md)
    * [切换用户](general_commands/qie_huan_yong_hu.md)
 * [概念](concepts/gai_nian.md)
+   * 快照、备份、镜像和挂起
 
