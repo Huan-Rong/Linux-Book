@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [Cammands](cammands.md)
+* [General Cammands](cammands.md)
 
