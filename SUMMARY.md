@@ -6,5 +6,5 @@
    * [切换用户](general_commands/qie_huan_yong_hu.md)
 * [概念](concepts/gai_nian.md)
    * [快照、备份、镜像和挂起](concepts/kuai_zhao_3001_bei_fen_3001_jing_xiang_he_gua_qi.md)
-   * 六种开源许可证
+   * [六种开源许可证](liu_zhong_kai_yuan_xu_ke_zheng.md)
 
