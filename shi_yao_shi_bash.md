@@ -4,6 +4,8 @@
 * ```User```不能直接操作```OS Kernel```
 * ```Shell```分为**CLI(Command Line Interface)**和**GUI(Graphical User Interface)**两种类型
 
+---
+
 Linux的Shell也有以上两种类型，以下为对应的实现：
 * CLI: **BASH**
 * GUI: **GNOME**
