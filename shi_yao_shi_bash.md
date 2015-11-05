@@ -7,3 +7,5 @@
 Linux的Shell有：
 * CLI: **BASH**
 * GUI: **GNOME**
+
+SHELL、CLI、GUI都是概念，而BASH、GNOME则是具体的实现。
