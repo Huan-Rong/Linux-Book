@@ -13,4 +13,5 @@
    * [归档与压缩](gui_dang_yu_ya_suo.md)
    * [其他命令](qi_ta_ming_ling.md)
 * [附录A - 资源](fu_lu_a_-_zi_yuan.md)
+* 附录B - 安装
 
