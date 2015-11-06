@@ -10,7 +10,7 @@
 		find / -name *.conf
 		find / -perm 777  根据权限进行查找
 		find / -type d    根据类型进行查找
-		find . -name "a*" -exec ls -l {} \;
+		find . -name "a*" --exec ls -l {} \;
 
 		其他的一些参数：
 		-user   匹配所有者
