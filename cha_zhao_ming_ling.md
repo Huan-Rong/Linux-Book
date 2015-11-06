@@ -14,6 +14,6 @@
 
 		其他的一些参数：
 		-user   匹配所有者
-		-group
+		-group  匹配所有组
 		-ctime
 		-size
