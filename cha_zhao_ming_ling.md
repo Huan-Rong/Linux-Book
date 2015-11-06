@@ -13,7 +13,7 @@
 		find / -type d    根据类型进行查找
 		find . -name "a*" --exec ls -l {} \;
 
-其他参数：
+[其他参数](http://www.linuxprobe.com/chapter02/#210)：
 
 | 参数 | 作用 |
 | -- | -- |
