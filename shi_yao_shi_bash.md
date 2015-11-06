@@ -11,3 +11,7 @@ Linux的Shell也有以上两种类型，以下为对应的实现：
 * GUI: **GNOME**
 
 SHELL、CLI、GUI都是概念，而BASH、GNOME则是具体的实现。
+
+---
+通过[强大的SHELL](http://www.linuxprobe.com/chapter02/#21_SHELL)这一小节知道，上边的图并不完整。
+```User <-----> Shell <-----> System Call <-----> OS Kernel```
