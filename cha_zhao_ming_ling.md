@@ -13,7 +13,7 @@
 		find . -name "a*" -exec ls -l {} \;
 
 		其他的一些参数：
-		-user
+		-user   匹配所有者
 		-group
 		-ctime
 		-size
