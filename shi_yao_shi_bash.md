@@ -14,4 +14,4 @@ SHELL、CLI、GUI都是概念，而BASH、GNOME则是具体的实现。
 
 ---
 通过[强大的SHELL](http://www.linuxprobe.com/chapter02/#21_SHELL)这一小节知道，上边的图并不完整。应补充为：
-```User <-----> Shell <-----> 系统调用接口System Call <-----> OS Kernel <------> 硬件```
+```User <-----> Shell <-----> 系统调用接口 <-----> OS Kernel <------> 硬件```
