@@ -10,6 +10,5 @@
    * [命令的历史记录](general_commands/ming_ling_de_li_shi_ji_lu.md)
    * [切换用户](general_commands/qie_huan_yong_hu.md)
    * [其他命令](qi_ta_ming_ling.md)
-   * man命令
 * [附录A - 资源](fu_lu_a_-_zi_yuan.md)
 
