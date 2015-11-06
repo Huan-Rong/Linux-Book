@@ -11,6 +11,6 @@
    * [查找命令](cha_zhao_ming_ling.md)
    * [切换用户](general_commands/qie_huan_yong_hu.md)
    * [其他命令](qi_ta_ming_ling.md)
-   * 归档与压缩
+   * [归档与压缩](gui_dang_yu_ya_suo.md)
 * [附录A - 资源](fu_lu_a_-_zi_yuan.md)
 
