@@ -7,7 +7,7 @@
 * 用以高级查看文件/文件夹
 * 语法格式：```find [查找路径] 寻找条件 操作```
 
-		find . -name *linuxcast*
+		find . -name *linuxcast* 根据文件名称进行查找
 		find / -name *.conf
 		find / -perm 777  根据权限进行查找
 		find / -type d    根据类型进行查找
