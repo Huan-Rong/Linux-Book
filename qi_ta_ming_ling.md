@@ -20,3 +20,6 @@ echo命令用于在终端显示字符串或变量。格式为：```echo [字符�
         echo ZhengHuanRong      将字符串输入到终端
         echo $SHELL             查看SHELL变量的值
         echo $HOSTNAME          查看本机主机名
+
+---
+**date命令**
