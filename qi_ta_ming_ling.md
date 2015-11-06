@@ -14,3 +14,9 @@ man 该命令是一个帮助命令，在使用man命令之前需要了解帮助�
 **echo命令**
 
 echo命令用于在终端显示字符串或变量。格式为：```echo [字符串|变量]```
+
+示例：
+            
+        echo ZhengHuanRong
+        echo $SHELL
+        echo $HOSTNAME
