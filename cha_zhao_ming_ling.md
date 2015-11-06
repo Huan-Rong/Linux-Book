@@ -5,7 +5,7 @@
 
 **find命令**
 * 用以高级查看文件/文件夹
-* 语法格式：``````
+* 语法格式：```find [查找路径] 寻找条件 操作```
 
 		find . -name *linuxcast*
 		find / -name *.conf
