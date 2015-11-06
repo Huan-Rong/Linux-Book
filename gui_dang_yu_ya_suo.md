@@ -5,6 +5,6 @@
 * **gzip**命令用以压缩文件 
 * **tar**用以归档文件
 
-		tar -cvf out.tar linuxcast  创建一个归档
-		tar -xvf linuxcast.tar  释放一个归档
-		tar -cvzf backup.tar.gz /etc 先进行归档，然后使用gzip进行压缩。其实是tar命令调用gzip命令。
+        tar -cvf out.tar linuxcast  创建一个归档
+        tar -xvf linuxcast.tar  释放一个归档
+	    tar -cvzf backup.tar.gz /etc 先进行归档，然后使用gzip进行压缩。其实是tar命令调用gzip命令。
