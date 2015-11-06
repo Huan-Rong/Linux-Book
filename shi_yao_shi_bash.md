@@ -12,6 +12,8 @@ Linux的Shell也有以上两种类型，以下为对应的实现：
 
 SHELL、CLI、GUI都是概念，而BASH、GNOME则是具体的实现。
 
+BASH命令格式：```命令名称 [命令参数] [命令]```
+
 ---
 通过[强大的SHELL](http://www.linuxprobe.com/chapter02/#21_SHELL)这一小节知道，上边的图并不完整。应补充为：  
     
