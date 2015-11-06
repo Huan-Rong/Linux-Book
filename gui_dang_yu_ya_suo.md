@@ -11,5 +11,8 @@
 	tar -cvzf backup.tar.gz /etc 先进行归档，然后使用gzip进行压缩。
 	                                其实是tar命令调用gzip命令。
 
+| 参数 | 作用 |
+| -- | -- |
+| 0:2 | 1:2 |
 	    
 [更多参数说明](http://www.linuxprobe.com/chapter02/#29)
