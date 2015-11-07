@@ -13,3 +13,5 @@
 
 * 主引导记录(Master Boot Record，MBR)：安装启动管理程序的地方，大小为446 bytes。
 * 分区表(partition table)：记录硬盘的分区信息，有64 bytes。
+
+磁柱是进行分区时分配空间的最小单位。
