@@ -33,8 +33,8 @@
 4. 核心文件开始工作。
 
 **说明：**
-* **启动需要Boot Loader，Boot Loader可以安装在MBR或者Boot Sector**。
-* 计算机系统里面可能具有两个以上的启动管理程序Boot Loader。
-* 启动管理程序除了可以安装在MBR之外，还可以安装在每个分割槽的启动磁区(Boot Sector)。
+* **OS启动需要Boot Loader**
+* **Boot Loader可以安装在MBR或者Boot Sector**
+* 计算机系统里面可能具有两个以上的Boot Loader。
 * Boot Loader只会认识自己的系统所在分区内的可启动核心文件，以及其他Boot Loader而已。
 * 多重启动的重点是多个Boot Loader。
