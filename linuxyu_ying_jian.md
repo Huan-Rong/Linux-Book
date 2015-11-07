@@ -26,7 +26,7 @@
 
 因此，从企业的角度来看，计算机的电力成本的考量是有必要的。
 
-## 选择与Linux搭配的硬件
+## [选择与Linux搭配的硬件](http://vbird.dic.ksu.edu.tw/linux_basic/0130designlinux_1.php#hardware_select)
 > RAM 
 
 事实上在Linux服务器中，RAM的重要性比CPU还要高的多。因为如果RAM不够大， 就会使用到硬盘的交换分区(swap)，硬盘比内存的速度要慢的多，所以主内存太小可能会影响到整体系统的性能！尤其如果你还想要玩X Window的话，那主内存的容量就不能少。对於一般的小型服务器来说，建议至少也要512MB以上的主内存容量较佳。
