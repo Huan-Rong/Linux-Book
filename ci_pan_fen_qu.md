@@ -12,4 +12,4 @@
 整个硬盘的第一个磁区特别的重要，因为它记录了整个硬盘的重要信息分别是：
 
 * 主引导记录(Master Boot Record，MBR)：安装启动管理程序的地方，大小为446 bytes。
-* 分区表(partition table)：记录硬盘的分区信息，有64 bytes
+* 分区表(partition table)：记录硬盘的分区信息，有64 bytes。
