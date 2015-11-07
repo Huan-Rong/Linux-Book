@@ -21,3 +21,4 @@
 
 > 其他成本考量
 
+对于这方面的考量我也从未想过，这得感谢[鸟哥私房菜](http://vbird.dic.ksu.edu.tw/linux_basic/0130designlinux_1.php)扩展了我的认知。
