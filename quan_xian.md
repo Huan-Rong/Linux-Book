@@ -10,6 +10,9 @@ total 12
 -rw-rw-r--. 1 ian ian 137 Nov  7 00:51 exam2.sh
 -rw-rw-r--. 1 ian ian  53 Nov  7 00:13 example.sh
 -rw-rw-r--. 1 ian ian  21 Nov  6 23:38 practice.txt
+
+
+-----------------------------------------------------
 权限 连接数 owner group size lastModifiedTime fileName
 ```
 说明：
