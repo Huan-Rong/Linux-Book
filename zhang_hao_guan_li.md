@@ -41,6 +41,6 @@ The fields are as follows:
     GID         the numeric group ID.
     user_list   a  list  of  the  usernames that are members of this group, separated by commas.
 
-[**这几个文件之间的关系**](http://vbird.dic.ksu.edu.tw/linux_basic/0410accountmanager_files/id_link.gif)
+[**点击查看这几个文件之间的关系**](http://vbird.dic.ksu.edu.tw/linux_basic/0410accountmanager_files/id_link.gif)
 
 
