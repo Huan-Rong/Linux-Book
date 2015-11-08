@@ -40,12 +40,14 @@ The fields are as follows:
     password    the (encrypted) group password. If this field is empty, no password is needed.
     GID         the numeric group ID.
     user_list   a  list  of  the  usernames that are members of this group, separated by commas.
-
-[**点击查看这几个文件之间的关系**](http://vbird.dic.ksu.edu.tw/linux_basic/0410accountmanager_files/id_link.gif)
-
+    
 ### /etc/gshadow
 
 该文件类似于/etc/shadow，其最大的功能是创建用户组管理员。
+
+[**点击查看这几个文件之间的关系**](http://vbird.dic.ksu.edu.tw/linux_basic/0410accountmanager_files/id_link.gif)
+
+
 
 ### 操作
 
