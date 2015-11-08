@@ -67,3 +67,5 @@ The fields are as follows:
     // 而初始用户组是指在/etc/passwd文件中GID对应的用户组。
 ```
 
+**切换有效用户组**
+
