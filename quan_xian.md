@@ -47,7 +47,30 @@ drwxrwxr-x. 2 ian ian     6 Nov  8 13:51 pics
 ```
 
 ### chown
-使用chown命令修改文件的owner属性。除此之外，chown命令可以修改文件的group属性。
+使用chown命令修改文件的owner属性。除此之外，chown命令可以修改文件的group属性。  
+**示例：**
+```
+[root@Jarvis-C Documents]# ls -l
+total 12
+-rw-rw-r--. 1 ian users 137 Nov  7 00:51 exam2.sh
+-rw-rw-r--. 1 ian ian    53 Nov  7 00:13 example.sh
+drwxrwxr-x. 2 ian ian     6 Nov  8 13:51 pics
+-rw-rw-r--. 1 ian ian    21 Nov  6 23:38 practice.txt
+[root@Jarvis-C Documents]# chown root exam2.sh
+[root@Jarvis-C Documents]# ls -l
+total 12
+-rw-rw-r--. 1 root users 137 Nov  7 00:51 exam2.sh
+-rw-rw-r--. 1 ian  ian    53 Nov  7 00:13 example.sh
+drwxrwxr-x. 2 ian  ian     6 Nov  8 13:51 pics
+-rw-rw-r--. 1 ian  ian    21 Nov  6 23:38 practice.txt
+[root@Jarvis-C Documents]# chown ian:ian exam2.sh
+[root@Jarvis-C Documents]# ls -l
+total 12
+-rw-rw-r--. 1 ian ian 137 Nov  7 00:51 exam2.sh
+-rw-rw-r--. 1 ian ian  53 Nov  7 00:13 example.sh
+drwxrwxr-x. 2 ian ian   6 Nov  8 13:51 pics
+-rw-rw-r--. 1 ian ian  21 Nov  6 23:38 practice.txt
+```
 
 设置权限的方式有两种：
 1. 数字法设置权限
