@@ -77,7 +77,7 @@ drwxrwxr-x. 2 ian ian   6 Nov  8 13:51 pics
 使用chmod命令可设置文件的权限。其方式有两种：
 1. 数字法
 2. 符号法
-3. 
+
 ```
 [ian@Jarvis-C Documents]$ ls -l
 total 16
