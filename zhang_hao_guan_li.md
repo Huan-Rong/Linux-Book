@@ -16,4 +16,11 @@ Each line of the file describes  a  single  user,  and  contains  seven colon-se
 shadow is a file which contains the password information for the system's accounts and optional aging information. This file must not be readable by regular users if password security is to be maintained.   
 Each line of this file contains 9 fields, separated by colons (“:”), in the following order:
 
-    login name:encrypted password:date of last password change:minimum password age:maximum passwod age:password warning period:account expiration date:reserved field
+    login name
+    encrypted password
+    date of last password change
+    minimum password age
+    maximum password age
+    password warning period
+    account expiration date
+    reserved field
