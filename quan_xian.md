@@ -22,6 +22,8 @@ drwxrwxr-x. 2 ian ian   6 Nov  8 13:51 pics
 
 ## 设置文件属性
 
+这里的文件属性设置指的是对文件的owner/group/permission
+
 设置权限的方式有两种：
 1. 数字法设置权限
 2. 符号法设置权限
