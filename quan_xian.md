@@ -78,6 +78,23 @@ drwxrwxr-x. 2 ian ian   6 Nov  8 13:51 pics
 
 **数字法**
 
+```
+[ian@Jarvis-C Documents]$ ls -l
+total 16
+-rw-rw-r--. 1 ian ian 137 Nov  7 00:51 exam2.sh
+-rw-rw-rw-. 1 ian ian 137 Nov  8 14:14 exam3.sh
+-rw-rw-r--. 1 ian ian  53 Nov  7 00:13 example.sh
+drwxrwxr-x. 2 ian ian   6 Nov  8 13:51 pics
+-rw-rw-r--. 1 ian ian  21 Nov  6 23:38 practice.txt
+[ian@Jarvis-C Documents]$ chmod 664 exam3.sh
+[ian@Jarvis-C Documents]$ ls -l
+total 16
+-rw-rw-r--. 1 ian ian 137 Nov  7 00:51 exam2.sh
+-rw-rw-r--. 1 ian ian 137 Nov  8 14:14 exam3.sh
+-rw-rw-r--. 1 ian ian  53 Nov  7 00:13 example.sh
+drwxrwxr-x. 2 ian ian   6 Nov  8 13:51 pics
+-rw-rw-r--. 1 ian ian  21 Nov  6 23:38 practice.txt
+```
 
 **符号法**
 
