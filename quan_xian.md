@@ -9,6 +9,7 @@
 total 12
 -rw-rw-r--. 1 ian ian 137 Nov  7 00:51 exam2.sh
 -rw-rw-r--. 1 ian ian  53 Nov  7 00:13 example.sh
+drwxrwxr-x. 2 ian ian   6 Nov  8 13:51 pics
 -rw-rw-r--. 1 ian ian  21 Nov  6 23:38 practice.txt
 
 
@@ -16,7 +17,9 @@ total 12
 权限 连接数 owner group size createdTime|lastModifiedTime fileName
 ```
 说明：
-执行```ls -l```命令可以查看当前工作目录下的文件及其相关属性。
+* 执行```ls -l```命令可以查看当前工作目录下的文件及其相关属性。
+* 权限部分一共有10个字符组成，第一个表示文件的类型。-表示是文件，d表示是目录
+
 
 设置权限的方式有两种：
 1. 数字法设置权限
