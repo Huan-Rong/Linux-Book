@@ -70,6 +70,10 @@ The fields are as follows:
 **切换有效用户组**
 
 ```
-
+    [ian@Jarvis-C ~]$ groups
+    ian users
+    [ian@Jarvis-C ~]$ newgrp users
+    [ian@Jarvis-C ~]$ groups
+    users ian
 ```
 
