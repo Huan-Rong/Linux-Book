@@ -11,6 +11,10 @@ total 12
 -rw-rw-r--. 1 ian ian  53 Nov  7 00:13 example.sh
 -rw-rw-r--. 1 ian ian  21 Nov  6 23:38 practice.txt
 ```
+说明：
+执行```ls -l```命令可以查看当前工作目录下的文件及其相关属性。
+
+
 
 设置权限的方式有两种：
 1. 数字法设置权限
