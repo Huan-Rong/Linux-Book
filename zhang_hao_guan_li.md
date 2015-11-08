@@ -56,5 +56,10 @@ The fields are as follows:
     // -G 指定新的用户组。
 ```
 
+**查看用户所属用户组**
 
+```
+    groups
+    // 
+```
 
