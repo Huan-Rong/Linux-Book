@@ -12,11 +12,11 @@
 * [基本命令](general_commands/ji_ben_ming_ling.md)
    * [命令的历史记录](general_commands/ming_ling_de_li_shi_ji_lu.md)
    * [正确的关机方法](zheng_que_de_guan_ji_fang_fa.md)
+   * 权限
    * [切换用户](general_commands/qie_huan_yong_hu.md)
    * [查找命令](cha_zhao_ming_ling.md)
    * [归档与压缩](gui_dang_yu_ya_suo.md)
    * [其他命令](qi_ta_ming_ling.md)
-   * 权限
 * [附录A - 资源](fu_lu_a_-_zi_yuan.md)
 * [附录B - 安装](fu_lu_b_-_an_zhuang.md)
 
