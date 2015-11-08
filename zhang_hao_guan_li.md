@@ -53,6 +53,7 @@ The fields are as follows:
 ```
     usermod -a -G users ian
     // -a 表示append，即将用户加入新的用户组而不会从原来的用户组删除。
+    // -G 指定新的用户组。
 ```
 
 
