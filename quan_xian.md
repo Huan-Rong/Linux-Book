@@ -73,6 +73,7 @@ drwxrwxr-x. 2 ian ian   6 Nov  8 13:51 pics
 -rw-rw-r--. 1 ian ian  21 Nov  6 23:38 practice.txt
 ```
 
-设置权限的方式有两种：
+### chmod
+使用chmod命令可设置文件的权限。其方式有两种：
 1. 数字法设置权限
 2. 符号法设置权限
