@@ -25,7 +25,8 @@ drwxrwxr-x. 2 ian ian   6 Nov  8 13:51 pics
 这里的文件属性设置指的是对文件的owner/group/permission属性进行修改。
 
 ### chgrp
-使用chgrp命令修改文件所属的用户组。
+使用chgrp命令修改文件所属的用户组。  
+**示例：**
 ```
 [root@Jarvis-C Documents]# ls -l
 total 12
