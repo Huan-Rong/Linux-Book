@@ -47,8 +47,6 @@ The fields are as follows:
 
 [**点击查看这几个文件之间的关系**](http://vbird.dic.ksu.edu.tw/linux_basic/0410accountmanager_files/id_link.gif)
 
-
-
 ### 操作
 
 **为用户组添加新的用户**  
