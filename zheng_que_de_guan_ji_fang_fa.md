@@ -37,4 +37,5 @@ shutdown可以完成的工作有：
     shutdown -h +10     十分钟后关机
     shutdown -r now     系统立刻重新启动
     shutdown -r +30 'The system will reboot'  三十分钟后重新启动，并将警告信息发送给所有在线用户
+    shutdown -k now 'This system will reboot'  仅发送警告信息，并不会关机。
 **注意：**使用shutdown命令时务必加上时间参数，否则shutdown会自动跳到 run-level 1 (就是单人维护的登陆情况)。
