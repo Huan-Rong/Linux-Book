@@ -22,5 +22,6 @@ Each line of this file contains 9 fields, separated by colons (“:”), in the 
     minimum password age
     maximum password age
     password warning period
+    password inactivity period
     account expiration date
     reserved field
