@@ -26,6 +26,22 @@ drwxrwxr-x. 2 ian ian   6 Nov  8 13:51 pics
 
 ### chgrp
 使用chgrp命令修改文件所属的用户组。
+```
+[root@Jarvis-C Documents]# ls -l
+total 12
+-rw-rw-r--. 1 ian ian 137 Nov  7 00:51 exam2.sh
+-rw-rw-r--. 1 ian ian  53 Nov  7 00:13 example.sh
+drwxrwxr-x. 2 ian ian   6 Nov  8 13:51 pics
+-rw-rw-r--. 1 ian ian  21 Nov  6 23:38 practice.txt
+[root@Jarvis-C Documents]# chgrp users  exam2.sh
+[root@Jarvis-C Documents]# ls -l
+total 12
+-rw-rw-r--. 1 ian users 137 Nov  7 00:51 exam2.sh
+-rw-rw-r--. 1 ian ian    53 Nov  7 00:13 example.sh
+drwxrwxr-x. 2 ian ian     6 Nov  8 13:51 pics
+-rw-rw-r--. 1 ian ian    21 Nov  6 23:38 practice.txt
+
+```
 
 设置权限的方式有两种：
 1. 数字法设置权限
