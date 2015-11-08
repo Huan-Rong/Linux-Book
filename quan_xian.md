@@ -116,6 +116,3 @@ drwxrwxr-x. 2 ian ian   6 Nov  8 13:51 pics
 -rw-rw-r--. 1 ian ian  21 Nov  6 23:38 practice.txt
 ```
 
-
-#### 数字法
-
