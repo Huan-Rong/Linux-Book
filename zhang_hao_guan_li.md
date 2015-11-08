@@ -49,7 +49,11 @@ The fields are as follows:
 
 ## 操作
 
-**为用户组添加新的用户**
+**为用户组添加新的用户**  
+```
+    usermod -a -G users ian
+    // -a 表示append
+```
 
 
 
