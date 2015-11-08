@@ -24,3 +24,5 @@ Each line of this file contains 9 fields, separated by colons (“:”), in the 
     password inactivity period
     account expiration date
     reserved field
+
+## UID
