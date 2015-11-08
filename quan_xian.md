@@ -25,6 +25,7 @@ drwxrwxr-x. 2 ian ian   6 Nov  8 13:51 pics
 这里的文件属性设置指的是对文件的owner/group/permission属性进行修改。
 
 ### chgrp
+使用chgrp命令修改文件所属的用户组。
 
 设置权限的方式有两种：
 1. 数字法设置权限
