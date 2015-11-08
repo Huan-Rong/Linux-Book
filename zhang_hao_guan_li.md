@@ -43,4 +43,8 @@ The fields are as follows:
 
 [**点击查看这几个文件之间的关系**](http://vbird.dic.ksu.edu.tw/linux_basic/0410accountmanager_files/id_link.gif)
 
+### /etc/gshadow
+
+该文件类似于/etc/shadow，其最大的功能是创建用户组管理员。
+
 
