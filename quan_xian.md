@@ -13,7 +13,7 @@ total 12
 
 
 -----------------------------------------------------
-权限 连接数 owner group size lastModifiedTime fileName
+权限 连接数 owner group size createdTime|lastModifiedTime fileName
 ```
 说明：
 执行```ls -l```命令可以查看当前工作目录下的文件及其相关属性。
