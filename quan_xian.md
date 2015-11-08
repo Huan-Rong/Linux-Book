@@ -115,4 +115,8 @@ total 16
 drwxrwxr-x. 2 ian ian   6 Nov  8 13:51 pics
 -rw-rw-r--. 1 ian ian  21 Nov  6 23:38 practice.txt
 ```
+## 目录之权限和文件之权限
+权限对目录和文件来说其意义是不同的。
+### 文件之权限
+### 目录之权限
 
