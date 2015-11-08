@@ -60,6 +60,6 @@ The fields are as follows:
 
 ```
     groups
-    // 第一个输出的用户组即为用户组。
+    // 第一个输出的用户组即为有效用户组。
 ```
 
