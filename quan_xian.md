@@ -46,6 +46,9 @@ drwxrwxr-x. 2 ian ian     6 Nov  8 13:51 pics
 
 ```
 
+### chown
+使用chown命令修改文件的owner属性。除此之外，chown命令可以修改文件的group属性。
+
 设置权限的方式有两种：
 1. 数字法设置权限
 2. 符号法设置权限
