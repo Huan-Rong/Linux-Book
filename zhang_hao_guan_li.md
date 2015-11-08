@@ -32,7 +32,7 @@ Each line of this file contains 9 fields, separated by colons (“:”), in the 
 
 The /etc/group file is a text file that defines the groups on the system. There is one entry per line, with the following format:
 
-    group_name:password:GID:user_list
+    group_name:password:GID:user_list![](id_link.gif)
 
 The fields are as follows:
 
@@ -41,6 +41,6 @@ The fields are as follows:
     GID         the numeric group ID.
     user_list   a  list  of  the  usernames that are members of this group, separated by commas.
 
-### 文件之间关系
+[**这几个文件之间的关系**](http://vbird.dic.ksu.edu.tw/linux_basic/0410accountmanager_files/id_link.gif)
 
 
