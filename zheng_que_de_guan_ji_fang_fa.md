@@ -34,4 +34,5 @@ shutdown可以完成的工作有：
 
     shutdown -h now     立刻关机，其中 now 相当于时间为 0 的状态
     shutdown -h 20:25   在当天20:25关机；若当天21:25才下达此命令，则隔天关机
+    shutdown -h +10     十分钟后关机 
 **注意：**使用shutdown命令时务必加上时间参数，否则shutdown会自动跳到 run-level 1 (就是单人维护的登陆情况)。
