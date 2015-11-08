@@ -12,7 +12,7 @@ Each line of the file describes  a  single  user,  and  contains  seven colon-se
     
 root用户的UID为0。我们可以将某一用户的UID改为0，从而使之也成为系统管理员。但是不建议这么做。
 
-需要保留一段UID区间留给系统使用，如[1, 1000)。
+需要保留一段UID区间留给系统使用，如[1, 1000)。这样一来，普通用户的UID就从1000开始算起了。
 ### 文件/etc/shadow
 
 shadow is a file which contains the password information for the system's accounts and optional aging information. This file must not be readable by regular users if password security is to be maintained.   
