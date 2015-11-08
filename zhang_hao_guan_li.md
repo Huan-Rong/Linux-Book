@@ -60,6 +60,6 @@ The fields are as follows:
 
 ```
     groups
-    // 第一个
+    // 第一个输出的群组即为有效群组。
 ```
 
