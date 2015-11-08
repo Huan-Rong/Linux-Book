@@ -59,7 +59,9 @@ The fields are as follows:
 **查看用户所属用户组**
 
 ```
-    groups
+    [ian@Jarvis-C ~]$ groups
+    ian users
+
     // 第一个输出的用户组即为有效用户组。
     // 而初始用户组是指在/etc/passwd文件中GID对应的用户组。
 ```
