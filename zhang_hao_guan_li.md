@@ -51,7 +51,8 @@ The fields are as follows:
 
 **为用户组添加新的用户**  
 ```
-    usermod -a -G users ian
+    [ian@Jarvis-C ~]$ usermod -a -G users ian
+    
     // -a 表示append，即将用户加入新的用户组而不会从原来的用户组删除。
     // -G 指定新的用户组。
 ```
