@@ -83,5 +83,5 @@ The fields are as follows:
     users ian
 ```
 说明：newgrp可以变更目前用户的有效群组，而且是以另外一个shell来提供这个功能。如下图所示：
-
+![newgrp命令](newgrp.gif)
 
