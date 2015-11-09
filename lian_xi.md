@@ -21,3 +21,7 @@
     -rw-rw-r--. 1 test 1000  53 Nov  7 00:13 example.sh
     drwxrwxr--. 2 root root  21 Nov  8 15:12 pics
     -rw-rw-r--. 1 test 1000  21 Nov  6 23:38 practice.txt
+    
+
+**练习2：在/etc/passwd中修改ian账户的UID之后，ian账户无法再次登录系统。**
+测试环境为：CentOS 7
