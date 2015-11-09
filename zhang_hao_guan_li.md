@@ -44,6 +44,7 @@ The fields are as follows:
     GID         the numeric group ID.
     user_list   a  list  of  the  usernames that are members of this group, separated by commas.
     
+这里需要到的概念是：**初始用户组、有效用户组、切换有效用户组**。
 ### /etc/gshadow
 
 该文件类似于/etc/shadow，其最大的功能是创建用户组管理员。
