@@ -2,6 +2,10 @@
 **ls命令**
 ls命令有一个选项**-d**，该参数表示列出目录本身而不是目录中的内容。示例如下：
 ```
+    [ian@Jarvis-C Documents]$ ll -d /home/ian
+    drwx------. 14 ian 1000 4096 Nov  9 11:22 /home/ian
+    [ian@Jarvis-C Documents]$ ll -d
+    drwxr-xr-x. 3 ian 1000 68 Nov  8 15:12 .
 
 ```
 
