@@ -1,1 +1,1 @@
-**练习1：**在/etc/passwd中新增一行数据，其name为test，其UID为ian账号的UID；然后修改ian账号的UID为其他
+**练习1：**在/etc/passwd中新增一行数据，其name为test，其UID为ian账号的UID；然后修改ian账号的UID为其他值；最后查看原来ian账户中的任一文件。
