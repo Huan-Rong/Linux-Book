@@ -49,7 +49,8 @@ The fields are as follows:
 
 该文件类似于/etc/shadow，其最大的功能是创建用户组管理员。
 
-**这几个文件之间的关系如下图：**
+**这几个文件之间的关系如下图：**   
+
 ![点击查看这几个文件之间的关系](id_link.gif)
 
 
@@ -82,6 +83,7 @@ The fields are as follows:
     [ian@Jarvis-C ~]$ groups
     users ian
 ```
-说明：newgrp可以变更目前用户的有效用户组，其前提是该用户属于该用户组。另外，newgrp是以另外一个shell来提供这个功能。如下图所示：
+说明：newgrp可以变更目前用户的有效用户组，其前提是该用户属于该用户组。另外，newgrp是以另外一个shell来提供这个功能。如下图所示：  
+
 ![newgrp命令](newgrp.gif)
 
