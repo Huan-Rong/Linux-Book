@@ -10,7 +10,7 @@ Each line of the file describes  a  single  user,  and  contains  seven colon-se
 
     name:password:UID:GID:GECOS:directory:shell
     
-root用户的UID为0。我们可以将某一用户的UID改为0，从而使之也成为系统管理员。但是不建议这么做。
+**root用户的UID为0**。我们可以将某一用户的UID改为0，从而使之也成为系统管理员。但是不建议这么做。
 
 系统会保留一段UID区间来使用，如[1, 1000)(具体的区间段依赖具体的系统)。这样一来，普通用户的UID就从1000开始算起了。
 ### /etc/shadow
