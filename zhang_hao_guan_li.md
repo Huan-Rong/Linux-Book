@@ -82,5 +82,5 @@ The fields are as follows:
     [ian@Jarvis-C ~]$ groups
     users ian
 ```
-说明：newgrp可以变更目前用户的有效群组， 而且是以另外一个shell来提供这个功能。
+说明：newgrp可以变更目前用户的有效群组，而且是以另外一个shell来提供这个功能。
 
