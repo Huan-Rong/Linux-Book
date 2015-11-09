@@ -1,6 +1,6 @@
 **练习1：**在/etc/passwd中新增一行数据，其name为test，其UID为ian账号的UID；然后修改ian账号的UID为其他值；最后查看原来ian账户中的任一文件。
 
     [root@Jarvis-C Documents]# vim /etc/passwd
-    // 省略部分数据
+    // 省略部分数据...
     ian:x:1001:1000:ian:/home/ian:/bin/bash
     test:x:1000:1000:test::/bin/bash
