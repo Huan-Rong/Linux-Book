@@ -24,4 +24,4 @@
     
 
 **练习2：在/etc/passwd中修改ian账户的UID之后，ian账户无法再次登录系统。**
-测试环境为：CentOS 7
+测试环境为：CentOS 7。
