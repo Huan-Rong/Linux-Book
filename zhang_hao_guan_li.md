@@ -82,6 +82,6 @@ The fields are as follows:
     [ian@Jarvis-C ~]$ groups
     users ian
 ```
-说明：newgrp可以变更目前用户的有效用户组，其前提是该用户属于该用户组。另外，newgrp以另外一个shell来提供这个功能。如下图所示：
+说明：newgrp可以变更目前用户的有效用户组，其前提是该用户属于该用户组。另外，newgrp是以另外一个shell来提供这个功能。如下图所示：
 ![newgrp命令](newgrp.gif)
 
