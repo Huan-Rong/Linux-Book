@@ -28,7 +28,7 @@ Each line of this file contains 9 fields, separated by colons (“:”), in the 
     account expiration date
     reserved field
     
-这里需要知道的几个概念：口令过期、口令失效、账号失效
+这里需要知道的几个概念：**口令过期、口令失效、账号失效**。
 ### /etc/group
 
 The /etc/group file is a text file that defines the groups on the system. There is one entry per line, with the following format:
