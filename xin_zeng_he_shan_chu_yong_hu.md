@@ -18,7 +18,10 @@
 * 在/home 底下创建一个与账号同名的目录作为用户家目录，且权限为 700
 
 ### 参考文件
-#### /etc/default/useradd
+    /etc/default/useradd
+    /etc/login.defs
+    /etc/skel/* 
+
 需要注意的概念：**私有用户组机制、公共用户组机制**。
 
 ## 删除用户
