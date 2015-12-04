@@ -15,5 +15,5 @@
 | -- | -- |
 | IP(Internet Protocol) Address | 互联网协议地址 |
 | host and domain name| 主机名和域名 |
-| URI(Uniform Resource Identifier)||
+| URI(Uniform Resource Identifier)| 统一资源标识符 |
 
