@@ -10,6 +10,7 @@
 | 方法 | 说明 |
 | -- | -- |
 | ifconfig命令 | 通过ifconfig命令可以**临时**配置IP地址 |
+| setup工具 | setup工具可以永久配置IP地址，但setup是Redhat系列的**专有命令** |
 
 ## ifconfig
 
