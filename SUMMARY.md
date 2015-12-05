@@ -26,6 +26,7 @@
    * [网络体系结构模型](wang_luo_ji_chu.md)
    * [Internet Protocol Address](internet_protocol_address.md)
    * [端口](duan_kou.md)
+   * DNS
 * [附录A - 资源](fu_lu_a_-_zi_yuan.md)
 * [附录B - 安装](fu_lu_b_-_an_zhuang.md)
 
