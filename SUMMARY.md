@@ -28,6 +28,7 @@
    * [端口](duan_kou.md)
    * [DNS](dns.md)
    * [疑与答](yi_yu_da.md)
+   * Linux下配置IP
 * [附录A - 资源](fu_lu_a_-_zi_yuan.md)
 * [附录B - 安装](fu_lu_b_-_an_zhuang.md)
 
