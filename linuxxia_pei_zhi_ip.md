@@ -14,6 +14,13 @@
 通过修改网络配置文件来配置IP，是以上4种方法中最重要且最值得掌握的方式。
 首先，应该清楚Linux的网络配置文件有哪些（见下表）。
 
+| 文件路径 | 文件名 | 说明 |
+| -- | -- |
+| /etc/sysconfig/net-scripts/ifcfg-eth0 | 网卡信息文件 |
+| /etc/sysconfig/network | 主机名文件 |
+| /etc/resolv.conf | DNS配置文件 |
+
+
 **补充：**
 1. DHCP服务器是一种自动分配IP地址的服务器。如果需要自动获取IP，则在局域网内要有DHCP服务器。
 
