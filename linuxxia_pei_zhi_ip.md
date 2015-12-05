@@ -1,4 +1,4 @@
-# 在Linux系统中配置IP地址
+# Linux下配置IP
 
 在Linux系统中配置IP地址的方法有4种：
 
