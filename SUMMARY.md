@@ -23,7 +23,7 @@
        * [练习](lian_xi.md)
    * [文本比较工具diff](wen_ben_bi_jiao_gong_ju_diff.md)
 * [网络管理](wang_luo_guan_li.md)
-   * [网络基础](wang_luo_ji_chu.md)
+   * [网络体系结构模型](wang_luo_ji_chu.md)
    * [Internet Protocol Address](internet_protocol_address.md)
    * [端口](duan_kou.md)
 * [附录A - 资源](fu_lu_a_-_zi_yuan.md)
