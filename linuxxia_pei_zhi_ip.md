@@ -9,9 +9,9 @@
 
 | 方法 | 说明 |
 | -- | -- |
-| ifconfig命令 | 通过ifconfig命令可以**临时**配置IP地址 |
-| setup工具 | setup工具可以永久配置IP地址，但setup是Redhat系列的**专有命令** |
-| 网络配置文件 | 通过修改网络配置文件来配置IP地址是标准的配置方法。必须掌握 |
+| ifconfig命令 | 通过ifconfig命令可以**临时**配置IP地址。 |
+| setup工具 | setup工具可以永久配置IP地址，但setup是Redhat系列的**专有命令**。 |
+| 网络配置文件 | 通过修改网络配置文件来配置IP地址是标准的配置方法，必须掌握。 |
 | 图形界面 | 与在Windows下配置IP的方法类似，仅作了解 |
 
 ## ifconfig
